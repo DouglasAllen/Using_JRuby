@@ -1,0 +1,1 @@
+https://github.com/jruby/jruby/wiki/CallingJavaFromJRuby
